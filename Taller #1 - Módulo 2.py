@@ -4,7 +4,11 @@ Created on Sat May 28 13:25:34 2022
 
 @author: Alvaro Zamora
 """
-
+# Alvaro José Zamora Cury
+# identificación: 1003064557
+# celular:3016842661
+# correo: alvaro.zamora@upb.edu.co
+# ID: 502225
 # Taller #1, segundo módulo
 
 #Declaramos las variables que vamos a usar
